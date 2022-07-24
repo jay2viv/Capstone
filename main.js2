@@ -1,0 +1,14 @@
+function curry()
+{
+    window.location = "index.html3";
+}
+
+function friedrice()
+{
+    window.location = "index.html3";
+}
+
+function dessert_kidmeal()
+{
+    window.location = "index.html3";
+}

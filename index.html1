@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dronedrop</title>
+</head>
+<body>
+<center>
+    <h2>SIGN IN</h2>
+    <hr>
+    <input class="btn btn-primary" id="username" type="text" placeholder="enter your username" width="30%">
+    <br>
+    <br>
+    <input class="btn-btn-waring" id="password" type="password" placeholder="enter your password" width="30%">
+    <br>
+    <br>
+    <button onclick="login()" class="btn btn-primary" width="15%">login</button>
+</center>
+</body>
+</html>
